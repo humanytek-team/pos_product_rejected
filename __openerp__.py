@@ -10,7 +10,7 @@
     validation of POS order to check stock for products, if the stock is
     negative then is registered automatically a negation (product_rejected) for
     product.''',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Point Of Sale',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
